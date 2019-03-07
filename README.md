@@ -35,9 +35,9 @@ __PubMed__:
    _you may want to specify advanced search options such as 'Article types', 'Text availability'_
    _you want the abstact_
  
- * 다음 영화로 부터 다음을 하고 싶다면 (If you are non-Korean, and you would like to crawl this website for any reason): 
+ * 다음 영화로 부터 다음을 하고 싶다면 (If you are non-Korean, and you would like to crawl this website for any reason. This does..): 
  
-   _박스오피스 년도 별로 영화 정보를 저장하고 싶다_ (_Basic info. about Top 50 movies every year_)
+   _박스오피스 년도 별로 영화 정보를 저장하고 싶다_ (_Crawls basic info. about Top 50 movies every year and URL_)  
    _영화의 러닝타임, 감독, 평점 등을 저장하고 싶다_ (_running time, director, ratings, etc_) 
   
 ## Getting Started 
