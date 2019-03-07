@@ -49,9 +49,21 @@ pip install pandas
 ```
 
 
-For Reddit crawler, I psaw which is a wrapper for searching Reddit by pushshift.io API. Please refer to the documentation before using it as it provides very diverse and convenient features.
+_For Reddit crawler_, I psaw which is a wrapper for searching Reddit by pushshift.io API. Please refer to the documentation before using it as it provides very diverse and convenient features. 
  * [psaw Github](https://github.com/dmarx/psaw)
  * [Pushshift API](https://github.com/pushshift/api)
+ 
+ For installing psaw, use 
+ ```bash
+pip install psaw
+```
 
+_For PubMed crawler_ only, selenium library is required. For installing it, use pip. For installing your browser driver, refer [here](https://pypi.org/project/selenium/)
+```bash
+pip install selenium
+```
 
-
+## Usage (To be updated)
+### Reddit
+### PubMed
+### Daum Movie
