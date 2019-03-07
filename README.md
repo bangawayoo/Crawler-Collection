@@ -43,10 +43,11 @@ __PubMed__:
 ## Getting Started 
 
 All modules make use of beautifulsoup and pandas. You can download them using pip.
-'''bash
+```bash
 pip install beautifulsoup4
 pip install pandas
-'''
+```
+
 
 For Reddit crawler, I psaw which is a wrapper for searching Reddit by pushshift.io API. Please refer to the documentation before using it as it provides very diverse and convenient features.
  * [psaw Github](https://github.com/dmarx/psaw)
