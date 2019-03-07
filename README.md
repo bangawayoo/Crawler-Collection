@@ -13,7 +13,7 @@ On the other hand, if you know what you are doing, this project may be a helpful
 
 __Reddit__: 
 * Crawls submissions (posts) of a certain subreddit with query keyword
-* Crawls comments of the particular submissions 
+* Crawls comments of those particular submissions 
   
 __PubMed__:
 * Crawls URL of papers on certain search result
