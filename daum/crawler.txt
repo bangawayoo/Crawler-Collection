@@ -1,7 +1,0 @@
-import requests
-from urllib.request import urlopen
-from bs4 import BeautifulSoup as bs
-from random import randint
-from time import sleep
-import pandas as pd 
-import re 
